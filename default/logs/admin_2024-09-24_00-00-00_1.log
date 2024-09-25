@@ -1,0 +1,428 @@
+
+================================================================
+======== txAdmin v7.2.2 atop fxserver 9956 Starting - 9/20/2024, 9:48:19 AM
+================================================================
+
+================================================================
+======== txAdmin v7.2.2 atop fxserver 9956 Starting - 9/20/2024, 9:48:30 AM
+================================================================
+[09:48:50][ThePixelNetwork] created admins file
+[09:49:27][ThePixelNetwork] Changing global settings via setup stepper and started Deployer.
+[09:49:35][ThePixelNetwork] Setting recipe.
+[09:50:09][ThePixelNetwork] Running recipe.
+[09:50:47][ThePixelNetwork] Completed and committed server deploy.
+[10:04:53][ThePixelNetwork] executed "RESTART SERVER"
+[10:05:10][ThePixelNetwork] executed "RESTART SERVER"
+[10:05:53][ThePixelNetwork] executed "RESTART SERVER"
+[10:09:33][ThePixelNetwork] executed "RESTART SERVER"
+[10:10:06][ThePixelNetwork] executed "RESTART SERVER"
+[10:11:00][ThePixelNetwork] executed "RESTART SERVER"
+[10:16:53][ThePixelNetwork] executed "RESTART SERVER"
+[10:18:36][ThePixelNetwork] executed "RESTART SERVER"
+[10:22:58][ThePixelNetwork] executed "RESTART SERVER"
+[10:23:42][ThePixelNetwork] executed "RESTART SERVER"
+[10:24:57][ThePixelNetwork] executed "RESTART SERVER"
+
+================================================================
+======== txAdmin v7.2.2 atop fxserver 9956 Starting - 9/20/2024, 10:26:15 AM
+================================================================
+[10:26:21][ThePixelNetwork] logged in from 127.0.0.1 via cfxre
+
+================================================================
+======== txAdmin v7.2.2 atop fxserver 9956 Starting - 9/20/2024, 10:27:54 AM
+================================================================
+
+================================================================
+======== txAdmin v7.2.2 atop fxserver 9956 Starting - 9/20/2024, 10:28:09 AM
+================================================================
+[10:32:56][ThePixelNetwork] logged in from 127.0.0.1 via cfxre
+[10:41:21][ThePixelNetwork] executed "RESTART SERVER"
+[10:41:45][ThePixelNetwork] executed "RESTART SERVER"
+[10:42:08][ThePixelNetwork] executed "RESTART SERVER"
+[10:45:20][ThePixelNetwork] executed "RESTART SERVER"
+[10:46:58][ThePixelNetwork] executed "RESTART SERVER"
+[10:47:47][ThePixelNetwork] executed "RESTART SERVER"
+[10:48:58][ThePixelNetwork] executed "RESTART SERVER"
+[11:36:33][ThePixelNetwork] executed "RESTART SERVER"
+
+================================================================
+======== txAdmin v7.2.2 atop fxserver 9956 Starting - 9/20/2024, 11:42:30 AM
+================================================================
+
+================================================================
+======== txAdmin v7.2.2 atop fxserver 9956 Starting - 9/20/2024, 11:45:43 AM
+================================================================
+[11:59:33][ThePixelNetwork] logged in from 127.0.0.1 via cfxre
+[11:59:50][ThePixelNetwork] executed "RESTART SERVER"
+[12:02:58][ThePixelNetwork] executed "RESTART SERVER"
+[12:04:28][ThePixelNetwork] executed "RESTART SERVER"
+[12:36:07][ThePixelNetwork] executed "RESTART SERVER"
+[12:51:48][ThePixelNetwork] executed "RESTART SERVER"
+[13:03:34][ThePixelNetwork] executed "RESTART SERVER"
+[13:13:01][ThePixelNetwork] executed "RESTART SERVER"
+[13:13:31][ThePixelNetwork] executed "RESTART SERVER"
+[13:14:38][ThePixelNetwork] executed "RESTART SERVER"
+[13:17:28][ThePixelNetwork] executed "RESTART SERVER"
+[13:18:00][ThePixelNetwork] Adding admin 'chin'.
+[13:18:22][ThePixelNetwork] Adding admin 'tilli'.
+[13:18:50][ThePixelNetwork] Adding admin 'yoda'.
+[13:19:11][ThePixelNetwork] Adding admin 'frank'.
+
+================================================================
+======== txAdmin v7.2.2 atop fxserver 9956 Starting - 9/20/2024, 1:24:36 PM
+================================================================
+[13:24:54][ThePixelNetwork] logged in from 191.96.152.183 via cfxre
+[14:34:48][ThePixelNetwork] executed "RESTART SERVER"
+[14:35:10][ThePixelNetwork] executed "RESTART SERVER"
+[14:36:31][ThePixelNetwork] executed "RESTART SERVER"
+[14:40:41][ThePixelNetwork] executed "RESTART SERVER"
+[14:42:40][ThePixelNetwork] executed "RESTART SERVER"
+[16:40:24][ThePixelNetwork] executed "RESTART SERVER"
+[17:09:59][ThePixelNetwork] executed "RESTART SERVER"
+[17:13:45][ThePixelNetwork] executed "RESTART SERVER"
+[17:18:47][ThePixelNetwork] executed "ensure "fiv3devs_pillbox""
+[17:18:57][ThePixelNetwork] executed "RESTART SERVER"
+[17:26:33][ThePixelNetwork] executed "RESTART SERVER"
+[17:30:02][ThePixelNetwork] executed "ensure "fiv3devs_pillbox""
+[17:30:23][ThePixelNetwork] executed "RESTART SERVER"
+[17:32:57][ThePixelNetwork] executed "RESTART SERVER"
+[18:52:08][ThePixelNetwork] executed "RESTART SERVER"
+[19:26:02][ThePixelNetwork] executed "ensure "qs-multicharacter""
+[19:26:12][ThePixelNetwork] executed "RESTART SERVER"
+[19:58:47][frank] Changing own password.
+[19:58:48][frank] Changing own identifiers.
+[19:59:01][frank] executed "setjob 4 police 5"
+[19:59:04][frank] executed "setjob 4 police 5"
+[19:59:12][frank] executed "setjob police 4 4"
+[19:59:20][frank] executed "setjob 4 police 2"
+[19:59:22][frank] executed "setjob 4 police 4"
+[19:59:23][frank] executed "setjob 4 police 5"
+[20:05:47][frank] executed "giveitem 4 WEAPON_NIGHTSTICK 1"
+[20:07:26][frank] executed "giveitem 4 weapon_combatpistol 1"
+[20:07:47][frank] executed "giveitem 4 weapon_stungun 1"
+[20:08:45][frank] executed "giveitem 4 ammo-9 400"
+[20:10:41][frank] executed "giveitem 4 ammo-45 400"
+[20:11:30][frank] executed "additem rifleammo"
+[20:11:35][frank] executed "additem pistolammo"
+[20:12:01][frank] executed "giveitem 4 money 100000"
+[20:12:03][frank] executed "giveitem 4 money 100000"
+[20:37:42][ThePixelNetwork] executed "RESTART SERVER"
+[20:46:38][ThePixelNetwork] executed "RESTART SERVER"
+[20:49:22][ThePixelNetwork] executed "ensure "favelasbflexstore""
+[20:49:36][ThePixelNetwork] executed "RESTART SERVER"
+[23:48:29][ThePixelNetwork] executed "setjob 2 admin"
+[23:48:39][ThePixelNetwork] executed "setjob 4 admin"
+[23:48:48][ThePixelNetwork] executed "setgroup 2 admin"
+[23:48:51][ThePixelNetwork] executed "setgroup 4 admin"
+[23:49:15][ThePixelNetwork] executed "heal 2"
+[23:49:35][ThePixelNetwork] executed "slap 2"
+[23:49:38][ThePixelNetwork] executed "kill 2"
+[23:49:42][ThePixelNetwork] executed "revive 2"
+[23:50:06][frank] executed "/heal"
+[23:50:08][frank] executed "heal"
+[23:51:24][ThePixelNetwork] executed "ensure "esx_ambulancejob""
+[23:51:27][ThePixelNetwork] executed "ensure "wasabi_ambulance""
+[01:21:12][ThePixelNetwork] executed "RESTART SERVER"
+[01:23:56][ThePixelNetwork] executed "RESTART SERVER"
+[01:25:27][ThePixelNetwork] executed "ensure "esx_basicneeds""
+[01:25:32][ThePixelNetwork] executed "ensure "devcore_smokev2""
+[01:32:52][ThePixelNetwork] executed "giveitem 2 redwood 1"
+[01:32:59][ThePixelNetwork] executed "giveitem 2 joint 1"
+[01:33:59][ThePixelNetwork] executed "giveitem 2 redw 1"
+[01:34:04][ThePixelNetwork] executed "giveitem 2 vape 1"
+[01:35:11][ThePixelNetwork] executed "RESTART SERVER"
+[01:37:07][ThePixelNetwork] executed "giveitem 1 lighter 1"
+[01:37:16][ThePixelNetwork] executed "giveitem 1 vape 1"
+[01:37:24][ThePixelNetwork] executed "giveitem 1 redw 1"
+[01:41:44][ThePixelNetwork] executed "RESTART SERVER"
+[01:45:39][ThePixelNetwork] executed "setgroup 1 admin"
+[01:46:27][ThePixelNetwork] executed "giveitem 1 redw"
+[01:46:34][ThePixelNetwork] executed "giveitem 1 lighter 1"
+[01:46:35][ThePixelNetwork] executed "giveitem 1 redw 1"
+[01:47:58][ThePixelNetwork] executed "giveitem 2 redw 1"
+[01:48:05][ThePixelNetwork] Sending announcement: wtf
+[01:49:19][yoda] Sending announcement: Yoda on top
+[01:49:47][ThePixelNetwork] executed "giveitem 2 taco 1"
+[01:50:59][ThePixelNetwork] executed "giveitem 2 blue_dream_joint 1"
+[01:59:22][ThePixelNetwork] executed "ensure "esx_basicneeds""
+[01:59:50][ThePixelNetwork] executed "ensure "esx_basicneeds""
+[02:01:16][ThePixelNetwork] executed "ensure "esx_basicneeds""
+[02:02:42][ThePixelNetwork] executed "RESTART SERVER"
+
+================================================================
+======== txAdmin v7.2.2 atop fxserver 9956 Starting - 9/21/2024, 2:03:19 AM
+================================================================
+
+================================================================
+======== txAdmin v7.2.2 atop fxserver 9956 Starting - 9/21/2024, 2:13:40 AM
+================================================================
+
+================================================================
+======== txAdmin v7.2.2 atop fxserver 9956 Starting - 9/21/2024, 2:16:39 AM
+================================================================
+[02:22:33][ThePixelNetwork] logged in from 191.96.152.183 via cfxre
+[02:49:10][ThePixelNetwork] executed "RESTART SERVER"
+[02:49:53][ThePixelNetwork] executed "RESTART SERVER"
+[02:50:17][ThePixelNetwork] executed "RESTART SERVER"
+[02:50:40][ThePixelNetwork] executed "ensure "illenium-appearance""
+[02:51:11][ThePixelNetwork] executed "RESTART SERVER"
+[03:20:06][frank] executed "giveitem 2 money 200"
+[03:20:13][frank] executed "giveitem 2 money 500000"
+[03:28:00][frank] executed "additem 2 bank 1000000"
+[03:28:29][frank] executed "giveaccountmoney 2 bank 100"
+[03:28:35][frank] executed "giveaccountmoney 2 bank 100000"
+[03:28:39][frank] executed "giveaccountmoney 2 bank 1000000"
+[05:06:20][ThePixelNetwork] executed "RESTART SERVER"
+[05:08:09][ThePixelNetwork] executed "setgroup 1 admin"
+[05:32:14][ThePixelNetwork] executed "RESTART SERVER"
+[05:32:55][ThePixelNetwork] executed "RESTART SERVER"
+[05:35:04][ThePixelNetwork] executed "ensure "envi-druglabs""
+[05:35:05][ThePixelNetwork] executed "ensure "envi-leanprops""
+[05:35:06][ThePixelNetwork] executed "ensure "envi-medic""
+[05:35:07][ThePixelNetwork] executed "ensure "envi-meth-props""
+[05:35:07][ThePixelNetwork] executed "ensure "envi-prescriptions""
+[05:35:10][ThePixelNetwork] executed "ensure "envi-trap-phone""
+[05:35:11][ThePixelNetwork] executed "ensure "envi-trap-phone""
+[05:35:13][ThePixelNetwork] executed "ensure "envi-trap-props""
+[05:35:14][ThePixelNetwork] executed "ensure "envimethvan""
+[05:35:15][ThePixelNetwork] executed "ensure "envi-trap-phone""
+[05:35:17][ThePixelNetwork] executed "ensure "envi-trap-phone""
+[05:46:39][tilli] Changing own password.
+[05:46:41][tilli] Changing own identifiers.
+[05:46:46][tilli] Adding admin 'chickncurry'.
+[05:51:08][ThePixelNetwork] executed "ensure "envi-trap-phone""
+[06:50:22][ThePixelNetwork] executed "RESTART SERVER"
+[11:08:06][ThePixelNetwork] executed "RESTART SERVER"
+[11:13:19][ThePixelNetwork] executed "RESTART SERVER"
+[11:13:49][ThePixelNetwork] executed "ensure "mx-surround""
+[11:14:53][ThePixelNetwork] executed "RESTART SERVER"
+[11:16:43][ThePixelNetwork] executed "RESTART SERVER"
+[11:26:12][ThePixelNetwork] executed "RESTART SERVER"
+[11:40:21][ThePixelNetwork] executed "RESTART SERVER"
+[12:15:31][ThePixelNetwork] executed "RESTART SERVER"
+[12:15:50][ThePixelNetwork] executed "RESTART SERVER"
+[12:34:43][ThePixelNetwork] executed "RESTART SERVER"
+[12:40:50][ThePixelNetwork] executed "ensure "snipe-motel""
+[12:44:58][ThePixelNetwork] executed "ensure "snipe-motel""
+[12:45:26][ThePixelNetwork] executed "RESTART SERVER"
+[12:48:57][ThePixelNetwork] executed "RESTART SERVER"
+[22:20:20][ThePixelNetwork] executed "RESTART SERVER"
+[22:44:20][ThePixelNetwork] executed "ensure "drc_electrician""
+[22:44:34][ThePixelNetwork] executed "ensure "qs-vehiclekeys""
+[23:24:10][ThePixelNetwork] executed "RESTART SERVER"
+[23:28:59][ThePixelNetwork] executed "RESTART SERVER"
+[23:32:42][ThePixelNetwork] executed "RESTART SERVER"
+[23:36:47][ThePixelNetwork] executed "ensure "DuyPack""
+[23:36:53][ThePixelNetwork] executed "ensure "DuyPack""
+[23:37:03][ThePixelNetwork] executed "RESTART SERVER"
+[23:39:51][ThePixelNetwork] executed "ensure "DuyPack""
+[23:42:26][ThePixelNetwork] executed "RESTART SERVER"
+[23:44:59][ThePixelNetwork] executed "RESTART SERVER"
+[23:45:28][ThePixelNetwork] executed "ensure "DuyPack""
+[23:49:44][ThePixelNetwork] executed "RESTART SERVER"
+[23:50:29][ThePixelNetwork] executed "ensure "DuyPack""
+[23:53:27][ThePixelNetwork] executed "ensure "DuyPack""
+[23:54:40][ThePixelNetwork] executed "RESTART SERVER"
+[23:54:59][ThePixelNetwork] executed "ensure "DuyPack""
+[00:00:58][ThePixelNetwork] executed "RESTART SERVER"
+[00:01:07][ThePixelNetwork] executed "ensure "DuyPack""
+[00:04:08][ThePixelNetwork] executed "ensure "DuyPack""
+[00:06:48][ThePixelNetwork] executed "ensure "DuyPack""
+[00:06:56][ThePixelNetwork] executed "sadas"
+[00:07:04][ThePixelNetwork] executed "ensure "DuyPack""
+[00:11:31][ThePixelNetwork] executed "ensure "DuyPack""
+[00:16:08][ThePixelNetwork] executed "RESTART SERVER"
+[00:16:32][ThePixelNetwork] executed "ensure "DuyPack""
+[02:04:35][ThePixelNetwork] executed "RESTART SERVER"
+[02:07:12][ThePixelNetwork] executed "RESTART SERVER"
+[02:14:49][ThePixelNetwork] executed "RESTART SERVER"
+[02:15:47][ThePixelNetwork] executed "ensure "DuyPack""
+[02:15:51][ThePixelNetwork] executed "ensure "brokepack""
+[02:32:00][ThePixelNetwork] logged in from 191.96.152.183 via cfxre
+[02:32:09][ThePixelNetwork] executed "RESTART SERVER"
+[02:32:49][ThePixelNetwork] executed "RESTART SERVER"
+[02:41:08][ThePixelNetwork] executed "RESTART SERVER"
+[02:47:36][ThePixelNetwork] executed "RESTART SERVER"
+[04:15:29][ThePixelNetwork] executed "ensure "DuyPack""
+[04:34:52][ThePixelNetwork] executed "RESTART SERVER"
+[04:40:35][ThePixelNetwork] executed "stop "envi-druglabs""
+[04:40:39][ThePixelNetwork] executed "ensure "envi-druglabs""
+[04:41:10][ThePixelNetwork] executed "ensure "brokepack""
+[05:01:38][yoda] Changing own password.
+[05:32:47][ThePixelNetwork] executed "ensure "wasabi_ambulance""
+[05:33:53][ThePixelNetwork] executed "ensure "wasabi_ambulance""
+[05:34:18][ThePixelNetwork] executed "ensure "wasabi_ambulance""
+[05:35:23][ThePixelNetwork] executed "ensure "wasabi_ambulance""
+[05:36:14][ThePixelNetwork] executed "ensure "wasabi_ambulance""
+[05:37:14][ThePixelNetwork] executed "ensure "wasabi_ambulance""
+[05:37:40][ThePixelNetwork] executed "RESTART SERVER"
+[05:57:53][ThePixelNetwork] executed "RESTART SERVER"
+[06:07:25][ThePixelNetwork] executed "RESTART SERVER"
+[06:24:27][ThePixelNetwork] executed "RESTART SERVER"
+[06:25:40][ThePixelNetwork] executed "RESTART SERVER"
+[06:35:31][ThePixelNetwork] executed "RESTART SERVER"
+[06:36:21][ThePixelNetwork] executed "RESTART SERVER"
+[06:37:10][ThePixelNetwork] executed "RESTART SERVER"
+
+================================================================
+======== txAdmin v7.2.2 atop fxserver 9956 Starting - 9/22/2024, 6:39:27 AM
+================================================================
+[06:39:40][ThePixelNetwork] logged in from 191.96.152.183 via cfxre
+[08:14:01][ThePixelNetwork] executed "RESTART SERVER"
+[10:12:53][ThePixelNetwork] executed "RESTART SERVER"
+[15:50:17][chin] Changing own password.
+[15:52:35][chin] Changing own identifiers.
+[15:53:23][chin] executed "setgroup 1 admin"
+
+================================================================
+======== txAdmin v7.2.2 atop fxserver 9956 Starting - 9/22/2024, 9:45:55 PM
+================================================================
+[22:15:51][ThePixelNetwork] logged in from 191.96.152.183 via cfxre
+[22:16:05][ThePixelNetwork] executed "ensure "wasabi_ambulance""
+[22:35:01][ThePixelNetwork] executed "RESTART SERVER"
+[22:44:24][ThePixelNetwork] executed "RESTART SERVER"
+[22:57:58][ThePixelNetwork] executed "RESTART SERVER"
+[00:01:45][ThePixelNetwork] executed "RESTART SERVER"
+[00:22:35][ThePixelNetwork] executed "RESTART SERVER"
+[00:31:03][ThePixelNetwork] executed "RESTART SERVER"
+[00:42:46][ThePixelNetwork] executed "ensure "qs-vehiclekeys""
+[00:58:53][ThePixelNetwork] executed "RESTART SERVER"
+[01:25:59][ThePixelNetwork] executed "RESTART SERVER"
+[01:32:44][ThePixelNetwork] executed "RESTART SERVER"
+[01:39:34][frank] Sending announcement: Tilly is stupid
+[01:41:08][ThePixelNetwork] executed "stop "ak4y-jobselector""
+[01:46:47][ThePixelNetwork] executed "RESTART SERVER"
+[01:55:44][ThePixelNetwork] executed "RESTART SERVER"
+[01:59:41][ThePixelNetwork] executed "ensure "cfx-nteam-police""
+
+================================================================
+======== txAdmin v7.2.2 atop fxserver 9956 Starting - 9/23/2024, 2:00:38 AM
+================================================================
+[02:00:45][ThePixelNetwork] logged in from 191.96.152.183 via cfxre
+[02:37:05][ThePixelNetwork] executed "RESTART SERVER"
+[03:05:51][tilli] Sending announcement: frank are u busy u bitch
+[03:06:28][frank] Sending announcement: only busy if its u
+[03:06:47][tilli] Sending announcement: so take out pd got it
+[03:07:17][frank] Sending announcement: TilliK
+[03:14:24][tilli] Sending announcement: hey
+[03:36:37][tilli] Sending announcement: were spawning cars at the airport
+[05:14:33][tilli] Sending announcement: deez nuts
+[05:53:24][ThePixelNetwork] executed "RESTART SERVER"
+[05:57:40][ThePixelNetwork] executed "RESTART SERVER"
+[06:03:55][ThePixelNetwork] executed "RESTART SERVER"
+[06:09:01][ThePixelNetwork] executed "RESTART SERVER"
+[06:12:19][ThePixelNetwork] executed "RESTART SERVER"
+[07:05:50][ThePixelNetwork] executed "RESTART SERVER"
+[07:06:25][ThePixelNetwork] executed "ensure "gl-pets""
+[07:06:56][ThePixelNetwork] executed "RESTART SERVER"
+[07:07:24][ThePixelNetwork] executed "ensure "CodeM-Venice-MeDo""
+[07:07:32][ThePixelNetwork] executed "ensure "codem-chat""
+[07:09:32][ThePixelNetwork] executed "ensure "chat-theme-gtao""
+[07:09:36][ThePixelNetwork] executed "stop "chat-theme-gtao""
+[07:09:45][ThePixelNetwork] executed "ensure "codem-chat""
+[07:10:08][ThePixelNetwork] executed "ensure "rpemotes""
+[07:37:09][ThePixelNetwork] executed "ensure "ak4y-dailyWheel""
+[07:37:31][ThePixelNetwork] executed "RESTART SERVER"
+[07:44:33][ThePixelNetwork] executed "RESTART SERVER"
+[07:47:45][ThePixelNetwork] executed "RESTART SERVER"
+[07:48:18][ThePixelNetwork] executed "ensure "hide""
+[07:51:14][ThePixelNetwork] executed "RESTART SERVER"
+[08:11:47][ThePixelNetwork] executed "RESTART SERVER"
+[10:00:16][ThePixelNetwork] executed "RESTART SERVER"
+[10:00:43][ThePixelNetwork] executed "RESTART SERVER"
+[10:01:28][ThePixelNetwork] executed "ensure "drugshells""
+[10:01:36][ThePixelNetwork] executed "ensure "mf-drugfx""
+[10:02:45][ThePixelNetwork] executed "ensure "mf-drugfx""
+[10:05:29][ThePixelNetwork] executed "RESTART SERVER"
+[10:07:37][ThePixelNetwork] executed "RESTART SERVER"
+[10:08:52][ThePixelNetwork] executed "RESTART SERVER"
+[16:37:19][ThePixelNetwork] executed "RESTART SERVER"
+[16:42:48][ThePixelNetwork] executed "RESTART SERVER"
+[16:48:20][ThePixelNetwork] executed "ensure "vms_gym""
+[16:48:30][ThePixelNetwork] executed "RESTART SERVER"
+[17:00:02][ThePixelNetwork] executed "RESTART SERVER"
+[17:04:40][ThePixelNetwork] executed "RESTART SERVER"
+[17:11:39][ThePixelNetwork] executed "ensure "vms_gym""
+
+================================================================
+======== txAdmin v7.2.2 atop fxserver 9956 Starting - 9/23/2024, 5:20:44 PM
+================================================================
+[17:28:57][ThePixelNetwork] logged in from 191.96.152.183 via cfxre
+[17:29:03][ThePixelNetwork] executed "ensure "vms_gym""
+[17:34:45][ThePixelNetwork] executed "ensure "gl-pets""
+[17:35:19][ThePixelNetwork] executed "RESTART SERVER"
+[17:57:01][ThePixelNetwork] executed "RESTART SERVER"
+[17:57:52][ThePixelNetwork] executed "RESTART SERVER"
+[18:01:42][ThePixelNetwork] executed "RESTART SERVER"
+[20:24:22][ThePixelNetwork] executed "RESTART SERVER"
+[23:44:06][ThePixelNetwork] executed "RESTART SERVER"
+[23:29:59][ThePixelNetwork] executed "RESTART SERVER"
+[23:30:12][ThePixelNetwork] executed "RESTART SERVER"
+
+================================================================
+======== txAdmin v7.2.2 atop fxserver 9956 Starting - 9/23/2024, 11:31:01 PM
+================================================================
+[23:47:51][ThePixelNetwork] logged in from 191.96.152.183 via cfxre
+[23:48:25][ThePixelNetwork] executed "RESTART SERVER"
+[00:24:11][ThePixelNetwork] executed "ensure "mx-surround""
+[00:24:56][ThePixelNetwork] executed "ensure "qs-smartphone-pro""
+[00:25:07][ThePixelNetwork] executed "ensure "drugshells""
+[00:25:13][ThePixelNetwork] executed "ensure "vms_documents""
+[00:25:19][ThePixelNetwork] executed "ensure "jg-dealerships""
+[00:34:13][ThePixelNetwork] executed "RESTART SERVER"
+[00:38:26][ThePixelNetwork] executed "RESTART SERVER"
+[01:35:44][ThePixelNetwork] executed "RESTART SERVER"
+[01:49:35][ThePixelNetwork] Sending announcement: mtfer
+[01:49:46][ThePixelNetwork] Sending announcement: its valley all over
+[01:50:01][ThePixelNetwork] Sending announcement: valley has map problemns
+[01:50:49][ThePixelNetwork] Sending announcement: taking out lil seoul
+[01:52:06][ThePixelNetwork] executed "RESTART SERVER"
+[02:04:01][ThePixelNetwork] executed "RESTART SERVER"
+[03:18:38][ThePixelNetwork] executed "RESTART SERVER"
+[03:24:04][ThePixelNetwork] executed "RESTART SERVER"
+[03:26:11][ThePixelNetwork] executed "RESTART SERVER"
+[03:31:59][ThePixelNetwork] executed "RESTART SERVER"
+[03:56:09][ThePixelNetwork] executed "ensure "brokepack""
+[06:01:05][ThePixelNetwork] executed "RESTART SERVER"
+[06:09:20][ThePixelNetwork] executed "RESTART SERVER"
+[06:15:26][frank] Sending announcement: still nothing rip
+[06:21:09][ThePixelNetwork] executed "ensure "jg-dealerships""
+
+================================================================
+======== txAdmin v7.2.2 atop fxserver 9956 Starting - 9/24/2024, 7:59:49 AM
+================================================================
+[08:02:33][ThePixelNetwork] logged in from 191.96.152.183 via cfxre
+[08:02:46][ThePixelNetwork] executed "ensure "mx-surround""
+[08:33:35][ThePixelNetwork] Scheduling server restart at +1
+[08:34:42][ThePixelNetwork] executed "RESTART SERVER"
+[08:34:50][SCHEDULER] Restarting server (scheduled restart at 08:34).
+[08:38:19][ThePixelNetwork] executed "ensure "jim-mining""
+[08:49:42][ThePixelNetwork] executed "ensure "17mov_SpeechRecognition""
+[08:53:09][ThePixelNetwork] executed "ensure "jim-mining""
+[08:55:43][ThePixelNetwork] executed "ensure "jim-mining""
+[09:01:26][ThePixelNetwork] executed "ensure "jim-mining""
+[09:03:09][ThePixelNetwork] executed "ensure "jim-mining""
+[09:16:01][ThePixelNetwork] executed "ensure "jim-mining""
+[09:19:14][ThePixelNetwork] executed "ensure "jim-mining""
+[09:22:04][ThePixelNetwork] executed "ensure "jim-mining""
+[09:25:20][ThePixelNetwork] executed "dsfsd"
+[09:25:25][ThePixelNetwork] executed "ensure "jim-mining""
+[09:50:59][ThePixelNetwork] executed "RESTART SERVER"
+[10:21:21][ThePixelNetwork] executed "RESTART SERVER"
+[10:21:57][ThePixelNetwork] executed "ensure "Badger_Discord_API""
+[10:22:11][ThePixelNetwork] executed "ensure "DiscordAcePerms""
+[10:22:18][ThePixelNetwork] executed "ensure "vms_documents""
+[10:25:03][ThePixelNetwork] executed "stop "DiscordAcePerms""
+[10:25:08][ThePixelNetwork] executed "stop "Badger_Discord_API""
+[10:49:15][ThePixelNetwork] executed "ensure "lation_mining""
+[10:50:13][ThePixelNetwork] executed "ensure "lation_mining""
+[10:54:31][ThePixelNetwork] executed "ensure "lation_mining""
+[19:38:11][ThePixelNetwork] executed "ensure "ak4y-garbage""
+[20:03:50][ThePixelNetwork] executed "ensure "lation_mining""
+[20:43:47][tilli] Sending announcement: duy sucks balls
+
+================================================================
+======== txAdmin v7.2.2 atop fxserver 9956 Starting - 9/24/2024, 9:33:05 PM
+================================================================
+[21:39:19][ThePixelNetwork] logged in from 191.96.152.183 via cfxre
+[23:04:42][ThePixelNetwork] Adding admin '492632249150472193'.

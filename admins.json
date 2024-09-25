@@ -1,0 +1,127 @@
+[
+  {
+    "name": "ThePixelNetwork",
+    "master": true,
+    "password_hash": "$2a$11$2rIaafNs7JZPdX/U2kXa1OGnqmnl9qv.cz8A/iTMDOxmLXkaNNaiq",
+    "providers": {
+      "citizenfx": {
+        "id": "ThePixelNetwork",
+        "identifier": "fivem:860268",
+        "data": {
+          "name": "ThePixelNetwork",
+          "profile": "https://forum.cfx.re/u/ThePixelNetwork",
+          "nameid": "https://forum.cfx.re/internal/user/860268",
+          "picture": "https://avatars.discourse.org/v4/letter/t/7933a0/256.png"
+        }
+      },
+      "discord": {
+        "id": "400761183931727873",
+        "identifier": "discord:400761183931727873",
+        "data": {}
+      }
+    },
+    "permissions": []
+  },
+  {
+    "name": "chin",
+    "master": false,
+    "password_hash": "$2a$11$IZCrQ/gV6n8zdC1kSUvpfutDFV99BKshB7vi0TY.AcUtpz2L8rx9a",
+    "providers": {
+      "discord": {
+        "id": "739868007232438314",
+        "identifier": "discord:739868007232438314",
+        "data": {}
+      },
+      "citizenfx": {
+        "id": "chin",
+        "identifier": "fivem:1561531",
+        "data": {}
+      }
+    },
+    "permissions": [
+      "all_permissions"
+    ]
+  },
+  {
+    "name": "tilli",
+    "master": false,
+    "password_hash": "$2a$11$Xo1cQPAtwuCwKiXcpFq1VeylJ0Zwa4NKtB6lOVlm5yDmVUlmAUtzy",
+    "providers": {
+      "discord": {
+        "id": "502592324279468032",
+        "identifier": "discord:502592324279468032",
+        "data": {}
+      }
+    },
+    "permissions": [
+      "all_permissions"
+    ]
+  },
+  {
+    "name": "yoda",
+    "master": false,
+    "password_hash": "$2a$11$uleu2Q2FDXX3KkAi2oGj.OeDYjMcwNrWbApFCaH3YTitUbfH3QEqC",
+    "providers": {
+      "discord": {
+        "id": "673626335939264524",
+        "identifier": "discord:673626335939264524",
+        "data": {}
+      }
+    },
+    "permissions": [
+      "all_permissions"
+    ]
+  },
+  {
+    "name": "frank",
+    "master": false,
+    "password_hash": "$2a$11$KVr9uGFEvFBQeuVmPmNZBuFAwALjWPFqgmeAkNgDhss8O2zuLCCTS",
+    "providers": {
+      "discord": {
+        "id": "162806082807267329",
+        "identifier": "discord:162806082807267329",
+        "data": {}
+      }
+    },
+    "permissions": [
+      "all_permissions"
+    ]
+  },
+  {
+    "name": "chickncurry",
+    "master": false,
+    "password_hash": "$2a$11$8saypMP3EYiGpm6zJagvPuS3.2GeyRXqDcowbm8r5hTM1wwT5Zk3e",
+    "password_temporary": true,
+    "providers": {
+      "citizenfx": {
+        "id": "snigr",
+        "identifier": "fivem:13037150",
+        "data": {}
+      },
+      "discord": {
+        "id": "340728177783603201",
+        "identifier": "discord:340728177783603201",
+        "data": {}
+      }
+    },
+    "permissions": [
+      "all_permissions"
+    ]
+  },
+  {
+    "name": "492632249150472193",
+    "master": false,
+    "password_hash": "$2a$11$qXM1BuX5BuBir7v8aXmd2eM2tuOxqOXgIHl/cl2Dfha8Vd0tSGAYW",
+    "password_temporary": true,
+    "providers": {
+      "discord": {
+        "id": "492632249150472193",
+        "identifier": "discord:492632249150472193",
+        "data": {}
+      }
+    },
+    "permissions": [
+      "all_permissions"
+    ]
+  }
+]
